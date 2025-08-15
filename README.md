@@ -1,4 +1,3 @@
-````markdown
 # React Course – Learning Notes
 
 This README contains my personal notes from the **React.js course** I am following.  
