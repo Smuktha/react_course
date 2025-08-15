@@ -108,7 +108,5 @@ export default App;
 
 
 ---
-
 ✍ **Note:** These notes are my **learning log** and will keep expanding as I go deeper into React.js.
-
 ```
